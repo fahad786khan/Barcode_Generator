@@ -1,1 +1,1 @@
-I am going to make a barcode generator in javascript with help of barcode api
+In this porjecti made barcode generator by using the jsbarcode library
